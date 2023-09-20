@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmorinari
 - 👀 I’m interested in programação  
-- 🌱 I’m currently learning Desenvolvimento WEB e python
+- 🌱 I’m currently learning Desenvolvimento WEB em Html, CSS, PHP e Framework Django em Python 
 - 💞️ I’m looking to collaborate on Sim
 - 📫 How to reach me @morinari53
 
